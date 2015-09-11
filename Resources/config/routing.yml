@@ -1,0 +1,3 @@
+jt_smiley_homepage:
+    path:     /hello
+    defaults: { _controller: "JTSmileyBundle:Default:index" }

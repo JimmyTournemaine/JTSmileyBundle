@@ -1,0 +1,8 @@
+services:
+    
+    jt_smiley.form.type.smiley:
+        class: JT\SmileyBundle\Form\Type\SmileyChoiceType
+        tags:
+            - { name: form.type, alias: smiley }
+            
+    

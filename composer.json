@@ -1,0 +1,13 @@
+{
+    "name": "jimmytournemaine/smiley-bundle",
+    "require": {
+    },
+    "license": "CC-BY-SA",
+    "authors": [
+        {
+            "name": "JimmyTournemaine",
+            "email": "jimmy.tournemaine@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
